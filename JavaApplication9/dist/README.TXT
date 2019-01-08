@@ -1,0 +1,1 @@
+No es Fornite , es un aplicacion falsa :v
