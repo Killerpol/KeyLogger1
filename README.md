@@ -1,1 +1,4 @@
-# KeyLogger1
+Para que funcione mi programa o cuando crea uno no se olvide :
+Agregar una librería llamado JNativeHook ( el mio esta agregado)
+Como funciona ?
+Lo único que va ver es nada claro que es keylogger que nada debe sospechar pero cuando das run al proyecto , lo que hice es poner la ventana principal que es public void run y abajo de su codigo pueden ver que esta setvisible false para que nadie sospeche que este registrando lo que pulsan los botones (teclado ) .Volvamos a lo principal , normalmente haz una prueba , es decir , pulsa todos los botones de teclado que te la gana y para saber que si el programa esta registrando , bueno si ya cansantes de pulsar botones das clic F12 y te da la opción de guardar (no poder la extensión .txt , ya viene incluido )  y bueno ese archivo esta registrado todo los botones que pulsaste y bueno así funciona :P .(lo siento de mi ortografía :v =-v)
